@@ -1,0 +1,106 @@
+Network Configuration:
+-------------------
+Input Size: 784
+Hidden Size: 256
+Output Size: 10
+Learning Rate: 0.100
+Batch Size: 128
+Number of Epochs: 30
+
+Training Metrics:
+----------------
+Epoch 1:
+  Accuracy: 86.51%
+  Time: 40.89 seconds
+Epoch 2:
+  Accuracy: 88.20%
+  Time: 39.60 seconds
+Epoch 3:
+  Accuracy: 89.12%
+  Time: 37.26 seconds
+Epoch 4:
+  Accuracy: 89.67%
+  Time: 39.09 seconds
+Epoch 5:
+  Accuracy: 90.06%
+  Time: 39.28 seconds
+Epoch 6:
+  Accuracy: 90.29%
+  Time: 39.11 seconds
+Epoch 7:
+  Accuracy: 90.52%
+  Time: 39.00 seconds
+Epoch 8:
+  Accuracy: 90.69%
+  Time: 40.26 seconds
+Epoch 9:
+  Accuracy: 90.82%
+  Time: 36.71 seconds
+Epoch 10:
+  Accuracy: 90.92%
+  Time: 38.79 seconds
+Epoch 11:
+  Accuracy: 90.99%
+  Time: 38.44 seconds
+Epoch 12:
+  Accuracy: 91.09%
+  Time: 38.72 seconds
+Epoch 13:
+  Accuracy: 91.16%
+  Time: 38.32 seconds
+Epoch 14:
+  Accuracy: 91.21%
+  Time: 38.52 seconds
+Epoch 15:
+  Accuracy: 91.25%
+  Time: 39.02 seconds
+Epoch 16:
+  Accuracy: 91.30%
+  Time: 38.88 seconds
+Epoch 17:
+  Accuracy: 91.34%
+  Time: 38.44 seconds
+Epoch 18:
+  Accuracy: 91.37%
+  Time: 38.58 seconds
+Epoch 19:
+  Accuracy: 91.42%
+  Time: 38.74 seconds
+Epoch 20:
+  Accuracy: 91.45%
+  Time: 38.51 seconds
+Epoch 21:
+  Accuracy: 91.49%
+  Time: 38.19 seconds
+Epoch 22:
+  Accuracy: 91.53%
+  Time: 39.14 seconds
+Epoch 23:
+  Accuracy: 91.56%
+  Time: 38.85 seconds
+Epoch 24:
+  Accuracy: 91.59%
+  Time: 38.67 seconds
+Epoch 25:
+  Accuracy: 91.61%
+  Time: 38.44 seconds
+Epoch 26:
+  Accuracy: 91.62%
+  Time: 38.37 seconds
+Epoch 27:
+  Accuracy: 91.64%
+  Time: 38.39 seconds
+Epoch 28:
+  Accuracy: 91.66%
+  Time: 38.40 seconds
+Epoch 29:
+  Accuracy: 91.70%
+  Time: 38.66 seconds
+Epoch 30:
+  Accuracy: 91.72%
+  Time: 38.85 seconds
+
+Final Results:
+-------------
+Final Training Accuracy: 91.72%
+Test Set Accuracy: 91.12%
