@@ -1,7 +1,7 @@
 #ifndef NEURAL_NETWORK_H
 #define NEURAL_NETWORK_H
 
-#define INPUT_SIZE 512
+#define INPUT_SIZE 784
 #define HIDDEN_SIZE 256
 #define OUTPUT_SIZE 10
 

@@ -13,7 +13,7 @@
 #define MNIST_IMAGE_SIZE 784  // 28x28 pixels
 #define MNIST_NUM_CLASSES 10  // Digits 0-9
 #define BATCH_SIZE 128
-#define NUM_ITERATIONS 30     // Number of Epochs
+#define NUM_ITERATIONS 100     // Number of Epochs
 
 // Add this structure to store training metrics
 typedef struct {
